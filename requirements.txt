@@ -1,0 +1,2 @@
+# Bu dosya Railway'in projeyi Python olarak tanıması için gereklidir.
+# update_server.py standart kütüphaneleri kullandığı için ek bağımlılık yoktur.
